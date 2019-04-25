@@ -39,14 +39,6 @@ np.random.choice(5, 3, replace=False) # no repeat number
 ```
 
 #### numpy.random.seed()
--
-
-
-
-
-
-
-
-
-''
+```python
 numpy.random.sample(size=None)
+```
