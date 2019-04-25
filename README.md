@@ -1,1 +1,3 @@
 # Python-Notes
+
+### gathering, learning
