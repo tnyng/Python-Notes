@@ -1,5 +1,6 @@
 #### super()
-- super([type[, object-or-type]]), Return a proxy object that delegates method calls to a parent or sibling class of type. This is 
+- super([type[, object-or-type]])
+- Return a proxy object that delegates method calls to a parent or sibling class of type. This is 
 useful for accessing inherited methods that have been overridden in a class.
 ```python
 class A:
