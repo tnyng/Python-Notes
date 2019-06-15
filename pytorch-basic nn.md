@@ -1,4 +1,4 @@
-### PyTorch
+### PyTorch - Basic Neural Network
 
 ```python
 torch.view() # np.reshape()
