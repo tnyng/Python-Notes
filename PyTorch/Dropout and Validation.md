@@ -24,7 +24,8 @@ class Classifier(nn.Module):
         x = F.log_softmax(self.fc4(x), dim=1)
 
         return x
-        
+```
+
 ```python
 # turn off gradients
 with torch.no_grad():
