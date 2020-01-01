@@ -1,6 +1,6 @@
-[deque](https://docs.python.org/zh-cn/3/library/collections.html?highlight=deque) : Returns a new deque object initialized left-to-right (using append()) with data from iterable. If iterable is not specified, the new deque is empty.
+[deque](https://docs.python.org/zh-cn/3/library/collections.html?highlight=deque): Returns a new deque object initialized left-to-right (using append()) with data from iterable. If iterable is not specified, the new deque is empty.
 
-[namedtuple](https://docs.python.org/3/library/collections.html?highlight=deque#collections.namedtuple) :
+[namedtuple](https://docs.python.org/3/library/collections.html?highlight=deque#collections.namedtuple): Returns a new tuple subclass named typename. The new subclass is used to create tuple-like objects that have fields accessible by attribute lookup as well as being indexable and iterable. 
 ```python
 >>> # Basic example
 >>> Point = namedtuple('Point', ['x', 'y'])
