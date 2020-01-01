@@ -1,1 +1,1 @@
-[deque](https://docs.python.org/zh-cn/3/library/collections.html?highlight=deque)
+[deque](https://docs.python.org/zh-cn/3/library/collections.html?highlight=deque) : Returns a new deque object initialized left-to-right (using append()) with data from iterable. If iterable is not specified, the new deque is empty.
